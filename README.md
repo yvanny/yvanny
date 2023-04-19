@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvanny
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently working as Senior Server Engineer under IT-Infra.
 - 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me: yangvanny@gmail.com
 
